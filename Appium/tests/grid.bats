@@ -2,7 +2,7 @@
 
 load ../../node_modules/bats-mock/stub
 
-default_node_config=\ 
+default_node_config=\
 '{
   "capabilities": [{
     "platform": "Android",
